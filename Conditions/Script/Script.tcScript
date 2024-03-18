@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="bear_change" key="{3C933BC5-ABEE-4132-8DB7-5DCE91AA5F1E}" path="..\..\..\vt_106142\vt_106142\Script\bear_change.js" />
+	</children>
+</Root>

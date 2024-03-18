@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="Bear_by_header">
+			<child name="Bearstore_header_elem" key="{6715BEE8-2644-4DFB-93C6-6D6482B665FD}" path="..\..\..\vt_106142\vt_106142\KeywordTests\Bearstore_header_elem.tcKDTest" />
+			<child name="Bearstore_header_view" key="{CA362F0B-7FA8-4A12-B5DB-7107B71DB5F5}" path="Bearstore_header_view.tcKDTest" />
+		</folder>
+		<folder name="Bear_by_count" />
+		<child name="Bearstore_day_type" key="{6442DF70-0F3F-4810-AA8A-91B711D6C535}" path="..\..\..\vt_106142\vt_106142\KeywordTests\Bearstore_day_type.tcKDTest" />
+		<child name="if_else_count" key="{1238EC40-4561-469C-8D55-FD2FB5CD2485}" path="..\..\..\vt_106142\vt_106142\KeywordTests\if_else_count.tcKDTest" />
+		<child name="if_else_multi" key="{4AE5737F-2722-4921-80C1-675F7439F141}" path="..\..\..\vt_106142\vt_106142\KeywordTests\if_else_multi.tcKDTest" />
+		<child name="middle_viewport" key="{E612DA6A-A213-4958-8045-83CA5293D568}" path="..\..\..\vt_106142\vt_106142\KeywordTests\middle_viewport.tcKDTest" />
+		<child name="smartbear_ifs" key="{4359789B-BFED-4E6E-8AFC-53F498A4812C}" path="..\..\..\vt_106142\vt_106142\KeywordTests\smartbear_ifs.tcKDTest" />
+	</children>
+</Root>
